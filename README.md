@@ -7,7 +7,7 @@ XAI for Income Prediction with the Adult dataset from the UC Irvine Machine Lear
 <a href="https://githubtocolab.com/DrPamelaThompson/WiDS-Charlotte-2025/blob/main/XAI_income_prediction.ipynb">Explainable AI with the Adult Income dataset</a><br><br>
 ## Resources
 <ul>
-  <li>Women in Data Science Charlotte 2025 <a href="https://wids.charlotte.edu>WiDS Charlotte 2025</a></li>
+  <li>Women in Data Science Charlotte 2025<a href="https://wids.charlotte.edu">WiDS Charlotte 2025</a></li>
   <li>UCI ML Repository Adult Income Dataset <a href="https://archive.ics.uci.edu/dataset/2/adult">Adult- UCI Machine Learning</a></li>
   <li>Omni XAI: A Library for Explainable AI <a href="https://github.com/salesforce/OmniXAI">Omni XAI Github</a></li>
 </ul>
