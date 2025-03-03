@@ -8,6 +8,6 @@ XAI for Income Prediction with the Adult dataset from the UC Irvine Machine Lear
 ## Resources
 <ul>
   <li>UCI ML Repository Adult Income Dataset <a href="https://archive.ics.uci.edu/dataset/2/adult">Adult- UCI Machine Learning</a></li>
-  <li>Omni XAI: A Library for Explainable AI <a href="http://https://github.com/salesforce/OmniXAI">Omni XAI Github</a></li>
+  <li>Omni XAI: A Library for Explainable AI <a href="https://github.com/salesforce/OmniXAI">Omni XAI Github</a></li>
 </ul>
 
