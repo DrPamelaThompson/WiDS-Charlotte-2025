@@ -5,4 +5,9 @@ Resources for Women In Data Science 2025 presentation by Dr. Grace Casselberry (
 <a href="https://colab.research.google.com/github/DrPamelaThompson/WiDS-Charlotte-2025/blob/main/XAI_shark_presence_prediction_WiDS.ipynb">Explainable AI and Shark Presence Prediction with the Cape Cod Limited Shark Dataset</a></p><br></p>
 <p>XAI for Income Prediction with the Adult dataset from the UC Irvine Machine Learning Repository: opens in colab<br>
 <a href="https://githubtocolab.com/DrPamelaThompson/WiDS-Charlotte-2025/blob/main/XAI_income_prediction.ipynb">Explainable AI with the Adult Income dataset</a></p><br></p>
+## Resources
+<ul>
+  <li>UCI ML Repository Adult Income Dataset <a href="https://archive.ics.uci.edu/dataset/2/adult">Adult- UCI Machine Learning</a></li>
+  <li>Omni XAI: A Library for Explainable AI <a href="http://https://github.com/salesforce/OmniXAI">Omni XAI Github</a></li>
+</ul>
 
