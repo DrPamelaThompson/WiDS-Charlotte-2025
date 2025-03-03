@@ -1,4 +1,4 @@
-# WiDS-Charlotte-2025 XAI and Shark Presence Prediction (March 13, 2025)
+# WiDS-Charlotte-2025 XAI and Shark Presence Prediction
 Resources for Women In Data Science 2025 presentation by Dr. Grace Casselberry (UMass, Amherst) and Dr. Pamela Thompson (Catawba College, UNC Charlotte). WiDS is sponsored by UNC Charlotte, School of Data Science in the College of Computing and Informatics. The notebooks used in the presentation use Python, Google Colab, and OmniXAi, an open source library facilitating XAI in Python, developed by Salesforce. 
 ## Examples
 XAI for Near Shore Great White Shark Prediction (limited dataset, for educational purposes only): opens in colab<br>
